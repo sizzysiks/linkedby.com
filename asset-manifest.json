@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/linkedby.com/static/css/main.7a67c61e.css",
-    "main.js": "/linkedby.com/static/js/main.fe48a394.js",
+    "main.css": "/linkedby.com/static/css/main.83a9d577.css",
+    "main.js": "/linkedby.com/static/js/main.595800a8.js",
     "static/media/delay.jpg": "/linkedby.com/static/media/delay.493a8e68d03e52a4f12a.jpg",
+    "static/media/connection.png": "/linkedby.com/static/media/connection.ba395a18c1fa80d02f8e.png",
     "static/media/lock.png": "/linkedby.com/static/media/lock.6de6a2d77d2c504a18ba.png",
     "static/media/5.svg": "/linkedby.com/static/media/5.326561c21a7ef550813e96c60a8bb3f2.svg",
     "static/media/undraw_2.svg": "/linkedby.com/static/media/undraw_2.08372610ffa35609837a556cffc76322.svg",
@@ -13,13 +14,13 @@
     "static/media/6.svg": "/linkedby.com/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
     "static/media/undraw_1.svg": "/linkedby.com/static/media/undraw_1.266523005bf6c9d9c73815a77e827547.svg",
     "index.html": "/linkedby.com/index.html",
-    "static/media/header-shape.svg": "/linkedby.com/static/media/header-shape.f74b3019fecf9e6db446f0fe419bc34d.svg",
+    "static/media/header-shape.svg": "/linkedby.com/static/media/header-shape.23ed08a133777d4c769f3150fd29ff4a.svg",
     "static/media/shape.svg": "/linkedby.com/static/media/shape.a39fa6c366398d7a6390a73043b0d9fc.svg",
-    "main.7a67c61e.css.map": "/linkedby.com/static/css/main.7a67c61e.css.map",
-    "main.fe48a394.js.map": "/linkedby.com/static/js/main.fe48a394.js.map"
+    "main.83a9d577.css.map": "/linkedby.com/static/css/main.83a9d577.css.map",
+    "main.595800a8.js.map": "/linkedby.com/static/js/main.595800a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a67c61e.css",
-    "static/js/main.fe48a394.js"
+    "static/css/main.83a9d577.css",
+    "static/js/main.595800a8.js"
   ]
 }
